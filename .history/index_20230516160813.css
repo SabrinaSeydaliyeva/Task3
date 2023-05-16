@@ -85,9 +85,12 @@ li:nth-child(1) {
 @media screen and (max-width: 1024px) {
 
     /* tablet */
+
+
     .title-h1 {
         font-size: 32px;
         margin-bottom: 41.92px;
+
     }
 
     .title-h2 {
@@ -112,12 +115,9 @@ li:nth-child(1) {
 @media screen and (max-width: 768px) {
 
     /* mobile */
-    .container {
-        padding-left: 35px;
-        padding-top: 62px;
-  
-    
-    }
+
+
+
     .title-h1 {
         font-size: 26px;
     }

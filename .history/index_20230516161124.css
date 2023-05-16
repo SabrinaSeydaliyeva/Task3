@@ -113,9 +113,11 @@ li:nth-child(1) {
 
     /* mobile */
     .container {
-        padding-left: 35px;
-        padding-top: 62px;
-  
+        padding-left: 122px;
+        padding-top: 179px;
+        width: 100%;
+        min-height: 100vh;
+        background-color: #9DC9C8;
     
     }
     .title-h1 {
